@@ -13,8 +13,8 @@ nav:
     - faq.md
 
   - Proposals:
-    - proposals/blueprints.md
-    - proposals/event_system.md
+    - proposals/0000_blueprints.md
+    - proposals/0001_event_system.md
 
 theme:
   name: readthedocs

@@ -1,4 +1,4 @@
-# 提案：LiteLoaderBDS 3蓝图
+# 0001提案：LiteLoaderBDS 3蓝图
 
 ## 设计思想和预期功能
 
