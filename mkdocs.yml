@@ -12,9 +12,7 @@ nav:
     - usage.md
     - faq.md
 
-  - Proposals:
-    - proposals/0000_blueprints.md
-    - proposals/0001_event_system.md
+  - Development: https://github.com/LiteLDev/LiteLoaderBDS/wiki
 
 theme:
   name: readthedocs
@@ -39,4 +37,4 @@ plugins:
         zh:
           Languages: 语言
           Basics: 基础
-          Proposals: 提案
+          Development: 开发

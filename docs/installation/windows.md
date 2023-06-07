@@ -58,7 +58,6 @@ lip install --upgrade llbds3
 !!! danger
     Upgrading LiteLoaderBDS 3 may result in data loss. Please make sure you have a backup of your data before upgrading.
 
-
 ### Install via LipUI
 
 Before installation, you should obtain a copy of LipUI. See the guides [here](https://docs.lippkg.com/lipui_quickstart.html).
