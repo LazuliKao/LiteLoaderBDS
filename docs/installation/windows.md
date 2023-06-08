@@ -13,7 +13,7 @@ To run Bedrock Dedicated Server for Minecraft, you need to install the following
 
 - [Visual C++ Redistributable for Visual Studio 2015, 2017, 2019, and 2022](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
-Since LiteeLoaderBDS 3 is not compatible with the previous LiteLoaderBDS 2, you need to uninstall LiteLoaderBDS 2 before installing LiteLoaderBDS 3.
+Since LiteLoaderBDS 3 is not compatible with the previous LiteLoaderBDS 2, you need to uninstall LiteLoaderBDS 2 before installing LiteLoaderBDS 3.
 
 ## Installation Methods
 
@@ -32,19 +32,19 @@ If you have not installed Lip, you can install it following the instructions in 
 After installing Lip, you can install LiteLoaderBDS 3 by running the following command:
 
 ```powershell
-lip install llbds3
+lip install github.com/tooth-hub/llbds3
 ```
 
 To install a specific version of LiteLoaderBDS 3, you can run the following command:
 
 ```powershell
-lip install llbds3@3.0.0
+lip install github.com/tooth-hub/llbds3@3.0.0
 ```
 
 During the installation, you might be asked to confirm some prompts. You can press `y` to confirm the prompts. To skip the prompts, you can add the `-y` option to the command.
 
 ```powershell
-lip install -y llbds3
+lip install -y github.com/tooth-hub/llbds3
 ```
 
 You have now successfully installed LiteLoaderBDS 3.
@@ -52,7 +52,7 @@ You have now successfully installed LiteLoaderBDS 3.
 To upgrade LiteLoaderBDS 3, you can run the following command:
 
 ```powershell
-lip install --upgrade llbds3
+lip install --upgrade github.com/tooth-hub/llbds3
 ```
 
 !!! danger
